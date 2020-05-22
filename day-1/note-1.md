@@ -38,7 +38,7 @@ console.log(a);
 
 
 ## 3.webpack快速上手
-### 3.1 安装
+### 3.1 安装(相比全局安装，更推荐使用本地安装)
 ```bash
 npm init -y
 npm install webpack webpack-cli --save-dev 
